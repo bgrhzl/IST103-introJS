@@ -1,5 +1,3 @@
-alert("Hello World");
-
 // Variables describing a random person
 const name = "John Doe"; // String variable for person's name
 let age = 30; // Integer variable for person's age
@@ -24,4 +22,3 @@ console.log("Person lives at " + address.street + ", " + address.city + ", " + a
 console.log("Person's job: " + job);
 console.log("Person's partner: " + partner);
 console.log("Earth's gravity constant: " + EARTH_GRAVITY + " m/s^2");
-
