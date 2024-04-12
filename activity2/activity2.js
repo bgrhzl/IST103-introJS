@@ -22,3 +22,16 @@ console.log("Person lives at " + address.street + ", " + address.city + ", " + a
 console.log("Person's job: " + job);
 console.log("Person's partner: " + partner);
 console.log("Earth's gravity constant: " + EARTH_GRAVITY + " m/s^2");
+
+
+const toDoList = ["Finish homework", "Go for a run", "Buy groceries", "Call mom"];
+
+const lamp = {
+    brand: "IKEA",
+    color: "white",
+    type: "desk lamp",
+    isOn: false
+};
+
+console.log("My to-do list includes: " + toDoList.join(", "));
+console.log("My lamp is a " + lamp.color + " " + lamp.brand + " " + lamp.type + ".");
