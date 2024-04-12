@@ -23,7 +23,7 @@ console.log("Person's job: " + job);
 console.log("Person's partner: " + partner);
 console.log("Earth's gravity constant: " + EARTH_GRAVITY + " m/s^2");
 
-
+// activity 
 const toDoList = ["Finish homework", "Go for a run", "Buy groceries", "Call mom"];
 
 const lamp = {
